@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HMAZpSVLWRJz9/Am7ofiLT/9TI5lpD/7uZZCjybYS6W8QyB2ytls9ZtSVtq1/k88D5UO7M/FGQzM9RUozTsUGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\balno\\source\\repos\\ZavrsniRadReDo\\ZavrsniRad.Data\\ZavrsniRad.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\balno\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
